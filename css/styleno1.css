@@ -257,15 +257,14 @@ pre {
     background: rgba(0, 0, 0, .05);
     font-family: "Courier 10 Pitch", Courier, monospace;
     font-size: 15px;
-    font-size: 1.5rem;
-    line-height: 1.6;
-    margin-bottom: 1.6em;
+    line-height: 1.5;
     max-width: 100%;
     overflow: auto;
-    padding: 1.5em
+    padding: 1.5em;
     background-color: #f8f8f8; 
     border: 1px dashed rgb(221, 221, 221);
-    margin-top: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 code,
