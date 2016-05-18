@@ -262,7 +262,10 @@ pre {
     margin-bottom: 1.6em;
     max-width: 100%;
     overflow: auto;
-    padding: 1.6em
+    padding: 1.5em
+    background-color: #f8f8f8; 
+    border: 1px dashed rgb(221, 221, 221);
+    margin-top: 20px;
 }
 
 code,
