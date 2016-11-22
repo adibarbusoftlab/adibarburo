@@ -883,8 +883,8 @@ footer.entry-footerpbt {
 
 h1.site-titlenbt {
     font-weight: 600;
-    letter-spacing: -3px;
-    font-size: 34px
+    letter-spacing: 0;
+    font-size: 33px
 }
 
 h2.site-descriptionnbt {
